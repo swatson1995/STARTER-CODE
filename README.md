@@ -1,1 +1,1 @@
-# STARTER-CODE
+Fixes issues with imaging code not working correctly with some GPU acceleration
